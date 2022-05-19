@@ -1,3 +1,0 @@
-It won't get any good things for OR to become a normal order.
-
-OR as a special form were made to not to evaluate any unnecessary expression.  
